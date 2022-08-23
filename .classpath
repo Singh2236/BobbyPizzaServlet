@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-servlet-api/10.1.0-M16/tomcat-servlet-api-10.1.0-M16.jar" sourcepath="M2_REPO/org/apache/tomcat/tomcat-servlet-api/10.1.0-M16/tomcat-servlet-api-10.1.0-M16-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.0-M17/tomcat-embed-jasper-10.1.0-M17.jar" sourcepath="M2_REPO/org/apache/tomcat/embed/tomcat-embed-jasper/10.1.0-M17/tomcat-embed-jasper-10.1.0-M17-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/embed/tomcat-embed-core/10.1.0-M17/tomcat-embed-core-10.1.0-M17.jar" sourcepath="M2_REPO/org/apache/tomcat/embed/tomcat-embed-core/10.1.0-M17/tomcat-embed-core-10.1.0-M17-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-annotations-api/10.1.0-M17/tomcat-annotations-api-10.1.0-M17.jar" sourcepath="M2_REPO/org/apache/tomcat/tomcat-annotations-api/10.1.0-M17/tomcat-annotations-api-10.1.0-M17-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/embed/tomcat-embed-el/10.1.0-M17/tomcat-embed-el-10.1.0-M17.jar" sourcepath="M2_REPO/org/apache/tomcat/embed/tomcat-embed-el/10.1.0-M17/tomcat-embed-el-10.1.0-M17-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jdt/ecj/3.18.0/ecj-3.18.0.jar" sourcepath="M2_REPO/org/eclipse/jdt/ecj/3.18.0/ecj-3.18.0-sources.jar"/>
+</classpath>
